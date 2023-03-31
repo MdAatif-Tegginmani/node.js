@@ -1,1 +1,21 @@
 hello from node
+
+
+the REPL 
+
+Read
+Evaluate
+Print
+Loop
+
+
+weekly typed 
+ooL
+versatile
+
+
+http
+https
+path
+fs 
+OS
